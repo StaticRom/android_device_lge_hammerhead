@@ -180,6 +180,10 @@ PRODUCT_PACKAGES += \
     NfcNci \
     Tag
 
+# Torch
+PRODUCT_PACKAGES += \
+    Torch
+
 PRODUCT_PACKAGES += \
     libion
 
